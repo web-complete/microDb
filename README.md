@@ -3,8 +3,8 @@
 [![Build Status](https://travis-ci.org/web-complete/microDb.svg?branch=master)](https://travis-ci.org/web-complete/microDb)
 [![Coverage Status](https://coveralls.io/repos/github/web-complete/microDb/badge.svg?branch=master)](https://coveralls.io/github/web-complete/microDb?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/web-complete/microDb/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/web-complete/microDb/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/web-complete/microDb/version)](https://packagist.org/packages/web-complete/microDb)
-[![License](https://poser.pugx.org/web-complete/microDb/license)](https://packagist.org/packages/web-complete/microDb)
+[![Latest Stable Version](https://poser.pugx.org/web-complete/microDb/version)](https://packagist.org/packages/web-complete/micro-db)
+[![License](https://poser.pugx.org/web-complete/microDb/license)](https://packagist.org/packages/web-complete/micro-db)
 
 Tiny schemaless file DB library with no dependencies. Most suitable for small sites and fast prototyping
 
