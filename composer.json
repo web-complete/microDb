@@ -1,0 +1,33 @@
+{
+  "name": "web-complete/micro-db",
+  "description": "MicroDB",
+  "license": "MIT",
+  "keywords": [
+    "db",
+    "file",
+    "nosql",
+    "storage"
+  ],
+  "authors": [
+    {
+      "name": "Maxim Kasatkin",
+      "email": "mvkasatkin@gmail.com"
+    },
+    {
+      "name": "Sergey Saraikin",
+      "email": "ssaraikin@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6",
+    "mvkasatkin/mocker": "^1"
+  },
+  "autoload": {
+    "psr-4": {
+      "WebComplete\\microDb\\": "src"
+    }
+  }
+}
