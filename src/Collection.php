@@ -41,7 +41,7 @@ class Collection
         if ($filter) {
             $items = \array_filter($items, $filter);
         }
-        if ($limit) {
+        if ((int)$limit > 0) {
             $items = \array_slice($items, $offset, $limit);
         }
         return \array_values($items);
