@@ -75,6 +75,6 @@ class StorageFile implements StorageInterface
             \flock($this->res, \LOCK_UN);
             \fclose($this->res);
         }
-        \unlink($this->file);
+        @\unlink($this->file);
     }
 }
